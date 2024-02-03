@@ -1,0 +1,14 @@
+03-Feb-24 03:25:01 AM|root|ERROR|An unhandled exception occurred: expected a sequence of length 64 (got 6)
+NoneType: None
+03-Feb-24 03:26:21 AM|root|ERROR|An unhandled exception occurred: expected a sequence of length 64 (got 6)
+NoneType: None
+03-Feb-24 03:26:33 AM|root|ERROR|An unhandled exception occurred: expected a sequence of length 64 (got 6)
+NoneType: None
+03-Feb-24 03:27:28 AM|root|ERROR|An unhandled exception occurred: expected a sequence of length 64 (got 6)
+NoneType: None
+03-Feb-24 03:28:31 AM|root|ERROR|An unhandled exception occurred: expected a sequence of length 64 (got 6)
+NoneType: None
+03-Feb-24 03:29:32 AM|root|ERROR|An unhandled exception occurred: expected a sequence of length 64 (got 6)
+NoneType: None
+03-Feb-24 03:30:18 AM|root|ERROR|An unhandled exception occurred: expected a sequence of length 64 (got 6)
+NoneType: None
