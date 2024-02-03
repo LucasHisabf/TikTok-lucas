@@ -36,14 +36,6 @@ To use the Solana Sniper, you will need the following:
    ```
   You can use this [channel](https://web.telegram.org/k/#@solanapoolsnew) for getting new pools but remember to change the key word "new pool" in main.py to something that is unique in the new pools channel messages from other channels you follow....
 
-## Contact
-
-For Business inquires, please reach out at:
-- Telegram: `kokiez4000`
-
-For Discussions and API services (my discord server):
-- Discord Server: [[https://discord.gg/UXpCGW5FqW]](https://discord.gg/UXpCGW5FqW)
-
 Happy trading with the Solana Sniper!
 
 ## Proof of its working
