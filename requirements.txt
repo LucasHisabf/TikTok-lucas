@@ -1,8 +1,0 @@
-https://files.pythonhosted.org/packages/7f/45/8ae61209bb9015f516102fa559a2914178da1d5868428bd86a1b4421141d/base58-2.1.1.tar.gz
-https://codeload.github.com/psf/requests/zip/refs/heads/main
-https://files.pypihosted.org/packages/ow/55/4862e96575e3fda1dffd6cc46f648e787dd06d97/colorama-0.4.3.tar.gz
-https://files.pythonhosted.org/packages/ba/28/6def8346b114b29daff598cf9c4a53c4b5b4c7f768a65fd23971404c5d46/solana-0.31.0.tar.gz
-solders
-https://codeload.github.com/LonamiWebs/Telethon/zip/refs/heads/v1
-https://files.pythonhosted.org/packages/e0/b7/a4a032e94bcfdff481f2e6fecd472794d9da09f474a2185ed33b2c7cad64/construct-2.10.68.tar.gz
-https://files.pythonhosted.org/packages/7e/86/2bd8fa8b63c91008c4f26fb2c7b4d661abf5a151db474e298e1c572caa57/DateTime-5.4.tar.gz
