@@ -1,4 +1,4 @@
-import threading, requests, ctypes, random, json, time, base64, sys, re, os
+import threading, requests,colorama, ctypes, random, json, time, base64, sys, re, os
 from prettytable import PrettyTable
 from colorama import init, Fore
 from urllib.parse import urlparse, unquote, quote
